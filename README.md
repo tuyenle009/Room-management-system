@@ -48,15 +48,7 @@
 
 Installation
 -----------------------
-- Clone this project from https://github.com/amirhamza05/Student-Management-System
-- After clone you can see this installation screen
-![screenshot](https://raw.githubusercontent.com/amirhamza05/Student-Management-System/master/screen_shot/install_screen.png)
-
-- Fill this database setup form and when you install button click then if information is correct then you see install success screen
-![screenshot](https://raw.githubusercontent.com/amirhamza05/Student-Management-System/master/screen_shot/install_success.png)
-
-- After this your install is complete then you can login this system. Your Default id and password is 'admin' and 'admin'.
-
+- Clone this project from [https://github.com/amirhamza05/Student-Management-System](https://github.com/tuyenle009/Room-management-system)
 
 
 
