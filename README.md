@@ -39,6 +39,7 @@ Installation
 
 - After this your install is complete then you can login this system. Your Default id and password is 'admin' and 'admin'.
 
+![Screenshot 2023-12-25 120416](https://github.com/tuyenle009/Room-management-system/assets/128459950/6bb5bc7c-5e0b-4cc5-a64b-6ac9fc4d5908)
 
 
 
