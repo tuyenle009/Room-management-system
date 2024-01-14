@@ -1,0 +1,127 @@
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\QuanLyPhongTro_10122399.exe.config
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\QuanLyPhongTro_10122399.exe
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\QuanLyPhongTro_10122399.pdb
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.csproj.AssemblyReference.cache
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.csproj.SuggestedBindingRedirects.cache
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Properties.Resources.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.csproj.GenerateResource.cache
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.csproj.CoreCompileInputs.cache
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.exe
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.pdb
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.frmDangKy.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.frmQuenMatKhau.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.frmDangNhap.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.frmTrangChu.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\BLL.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\DTO.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\DAL.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\BLL.pdb
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\DTO.pdb
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\DAL.pdb
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.csproj.CopyComplete
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.frmKhachTro1.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.RJControls.RJTextBox.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.frmThemKT.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_KhachTro.frmSuaKT.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_TrangChu.frmTrangChu2.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_PhongTro.frmPhongTro.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_PhongTro.frmSuaPT.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_PhongTro.frmThemPT.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_HopDong.frmHopDong.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_HopDong.frmThemHD.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_HopDong.frmSuaHD.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.frmGiaoDien.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_DichVu.frmDichVu.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_DichVu.frmDichVuKhac.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_DichVu.frmDienNuoc.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_PhieuChi.frmPhieuChi.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_PhieuThu.frmPhieuThu.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_PhieuThu.frmThemPTu.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_PhieuThu.frmSuaPThu.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_BaoCao.frmThongKe.resources
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\EnvDTE.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\stdole.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\Microsoft.MSXML.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_BaoCao.frmBaoCao.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_BaoCao.frmBaoCao.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_BaoCao.frmThongKe.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.frmDangKy.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.frmDangNhap.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_DichVu.frmDichVu.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_DichVu.frmDichVuKhac.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_DichVu.frmDienNuoc.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_HopDong.frmHopDong.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_HopDong.frmThemHD.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_HopDong.frmSuaHD.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.frmKhachTro1.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.frmQuenMatKhau.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_KhachTro.frmSuaKT.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.frmThemKT.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_PhieuChi.frmPhieuChi.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_PhieuThu.frmPhieuThu.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_PhieuThu.frmSuaPThu.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_PhieuThu.frmThemPTu.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_PhongTro.frmPhongTro.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_PhongTro.frmSuaPT.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_PhongTro.frmThemPT.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Folder_TrangChu.frmTrangChu2.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.frmGiaoDien.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.frmTrangChu.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.RJControls.RJTextBox.resources
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.exe
+C:\Users\Admin\OneDrive\Máy tính\QuanLyPhongTro\QuanLyPhongTro_10122399\obj\Debug\QuanLyPhongTro_10122399.pdb

@@ -1,0 +1,9 @@
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\DAL\bin\Debug\DAL.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\DAL\bin\Debug\DAL.pdb
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\DAL\bin\Debug\DTO.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\DAL\bin\Debug\DTO.pdb
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\DAL\obj\Debug\DAL.dll
+D:\School\Nam2\Ky1\WindowsForm\Code\BaiTapLon\DAL\obj\Debug\DAL.pdb
