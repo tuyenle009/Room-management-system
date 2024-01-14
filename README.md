@@ -49,6 +49,8 @@
 Installation
 -----------------------
 - Clone this project from [https://github.com/amirhamza05/Student-Management-System](https://github.com/tuyenle009/Room-management-system)
+- Install the SQL file into MySQL and then change this path accordingly to run the software.
 
+![screenshot](https://github.com/tuyenle009/Room-management-system/assets/128459950/93bdd731-8527-4cd2-b460-109d623b2035) 
 
 
