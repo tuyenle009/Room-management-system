@@ -16,7 +16,7 @@
 -----------------------------
 - Quản lý phòng trọ
 - Quản lý khách trọ
-- Quản lý hóa đơn
+- Quản lý hợp đồng
 - Quản lý dịch vụ
 - Quản lý phiếu thu, phiếu chi
 - Quản lý thống kê báo cáo
